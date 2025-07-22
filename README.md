@@ -1,6 +1,7 @@
 # 🚦 Traffic Sign Recognition Using CNN
 
 This project is a deep learning-based Traffic Sign Recognition system developed using **Keras** and **TensorFlow**. It classifies traffic signs into **43 different categories**. The model is trained on images using **ImageDataGenerator** for data augmentation and the **Adam optimizer** for efficient convergence.
+### NOTE: Here is the dataset link : "https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign"
 
 ## 📂 Dataset
 * **Total Classes:** 43 traffic sign categories
